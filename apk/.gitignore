@@ -1,0 +1,9 @@
+*.iml
+.gradle/
+.gradle-user-home/
+.idea/
+build/
+local.properties
+captures/
+app/build/
+debug.keystore
